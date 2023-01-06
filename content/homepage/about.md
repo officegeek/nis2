@@ -1,5 +1,5 @@
 ---
-title: 'Our Difference'
+title: 'Hvad gør vi anderledes'
 weight: 2
 background: ''
 button: 'About Us'
